@@ -41,7 +41,7 @@ export default function TemplateList() {
   
     const bulkActions = [
       {
-        content: 'Add tags',
+        content: 'Add tag',
         onAction: () => console.log('Todo: implement bulk add tags'),
       },
       {
