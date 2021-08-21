@@ -64,6 +64,10 @@
       "pre-commit": "lint-staged"
     }
   },
+  "engines": {
+    "node": ">=8.0.0",
+    "npm": ">=7.0.0"
+  },
   "lint-staged": {
     "*.{js,css,json,md}": [
       "prettier --write"
