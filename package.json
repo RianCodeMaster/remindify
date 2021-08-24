@@ -65,8 +65,8 @@
     }
   },
   "engines": {
-    "node": ">=8.0.0",
-    "npm": ">=7.0.0"
+    "node": ">=16.3.x",
+    "npm": ">=7.21.x"
   },
   "lint-staged": {
     "*.{js,css,json,md}": [
